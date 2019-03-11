@@ -74,4 +74,4 @@
     - [饿了么前端](https://zhuanlan.zhihu.com/ElemeFE) - 饿了么前端
 
 ## 前端书籍
-  - [百度云盘](pan.baidu.com/) - 线上书籍
+  - [百度云盘](https://pan.baidu.com/) - 线上书籍
