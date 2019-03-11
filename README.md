@@ -17,22 +17,22 @@
   - [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/#toc1) - 阮一峰JavaScript教程
   - [ECMAScript 6 入门](http://es6.ruanyifeng.com/) -  阮一峰开源 ECMAScript 6入门
   - [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/28/2286877.html) - 汤姆大叔深入理解JavaScript系列
-  - [ECMAScript5.1规范中文版](http://yanhaijing.com/es5/#null) - ECMAScript5.1中文版
-  - [ECMAScript6 1规范](http://zhoushengfe.com/es6/es6-ch.html) - ES6 规范中文版本
+  - [ES5.1规范中文版](http://yanhaijing.com/es5/#null) - ES5.1规范中文版
+  - [ES6规范](http://zhoushengfe.com/es6/es6-ch.html) - ES6规范中文版本
 
 ## HTML&CSS
 
   - [html5Checklist](https://github.com/thedaviddias/Front-End-Checklist) - HTML 最佳实践规范
   - [css-tricks](https://css-tricks.com/) - CSS3 最新技巧
   - [张鑫旭](https://www.zhangxinxu.com/wordpress/) - CSS 张鑫旭
-  - [css大漠](https://www.w3cplus.com/) - css 大漠 业界最成熟css方案
+  - [css大漠](https://www.w3cplus.com/) - CSS 大漠 业界最成熟CSS方案
   - [flex更干净](https://magic-akari.github.io/solved-by-flexbox/) - solved-by-flexbox
   - [caniuse](https://caniuse.com/) - 兼容性
 
 ## 浏览器的实现原理和API
 
   - [浏览器的工作原理](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/) - 浏览器幕后
-  - [Chrome插件(扩展)开发全攻略](https://www.cnblogs.com/liuxianan/p/chrome-plugin-develop.html) - extension 开发
+  - [Chrome插件(扩展)开发全攻略](https://www.cnblogs.com/liuxianan/p/chrome-plugin-develop.html) - Extension 开发
 
 ## 前端工程实践
 
@@ -40,7 +40,7 @@
     - [eslint](https://github.com/AlloyTeam/eslint-config-alloy) - AlloyTeam ESLint 规则 
     - [tslint](https://github.com/AlloyTeam/tslint-config-alloy) - AlloyTeam TSLint 规则
   - 工具链
-    - [sass](https://sass-lang.com/) - css 处理器
+    - [sass](https://sass-lang.com/) - CSS 处理器
     - [babel](https://babeljs.io/) - JavaScript 代码兼容处理
     - [gulp](https://github.com/XiongJingzhi/scss-styles-init/blob/master/gulpfile.js) - 简单页面 基于gulp
     - [wepback](https://webpack.js.org/) - 静态模块打包器
