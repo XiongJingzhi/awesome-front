@@ -67,6 +67,7 @@
   - [Zindex](https://zxc0328.github.io/) - 工作经历
   - [ZhangCui](https://www.cnblogs.com/zczhangcui/default.html?page=1) - 经历类博客
   - [yezihaohao](https://yezihaohao.github.io/) - 项目实践经验
+  - [wy-ei](https://github.com/wy-ei/notebook) - wy-ei 笔记本编程相关的知识
   - 知乎专栏系列
     - [前端外刊评论](https://zhuanlan.zhihu.com/FrontendMagazine) - 关注前端技术
     - [ELSE](https://zhuanlan.zhihu.com/itech) - 技术周刊
