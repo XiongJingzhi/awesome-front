@@ -52,6 +52,7 @@
   - 前端框架
     - [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/) - Vue.js 技术揭秘
     - [Vue技术内幕](http://hcysun.me/vue-design/art/) - Vue技术内幕
+    - [underscore源码解读](https://github.com/hanzichi/underscore-analysis) - underscore 源码阅读
 
 ## 行业博客交流
 
