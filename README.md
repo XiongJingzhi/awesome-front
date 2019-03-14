@@ -57,6 +57,7 @@
 ## 行业博客交流
 
   - [冴羽前端学习](https://github.com/mqyqingfeng/Blog) - 冴羽前端学习博客，JavaScript深入系列、JavaScript专题系列、ES6系列、React系列
+  - [yhlben](https://yhlben.github.io/blog/js-inherit.html) -yhlben 博客
   - [木易杨](https://github.com/yygmind/blog) - 木易杨 前端进阶系列
   - [HCThink](https://github.com/HCThink/h-blog) - hooper博客 JavaScript异步、TypeScript、源码阅读系列
   - [jawil](https://github.com/jawil/blog/issues/6) - jawil博客、前端实践记录
