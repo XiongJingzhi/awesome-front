@@ -29,6 +29,16 @@
   - [flex更干净](https://magic-akari.github.io/solved-by-flexbox/) - solved-by-flexbox
   - [caniuse](https://caniuse.com/) - 兼容性
 
+## NPM常用库
+
+### node
+  - http-server
+  - nodemon
+  - pm2
+### serveless
+  - now
+  - surge
+
 ## 浏览器的实现原理和API
 
   - [浏览器的工作原理](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/) - 浏览器幕后
@@ -75,6 +85,3 @@
     - [ELSE](https://zhuanlan.zhihu.com/itech) - 技术周刊
     - [初级前端工程师](https://zhuanlan.zhihu.com/makewebgreatagain) - 初级前端工程师
     - [饿了么前端](https://zhuanlan.zhihu.com/ElemeFE) - 饿了么前端
-
-## 前端书籍
-  - [百度云盘](https://pan.baidu.com/) - 线上书籍
