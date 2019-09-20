@@ -35,7 +35,7 @@
   - http-server
   - nodemon
   - pm2
-### serveless
+### serverless
   - now
   - surge
 
